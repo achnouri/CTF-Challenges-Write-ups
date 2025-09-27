@@ -6,7 +6,7 @@
 
 ---
 
-| 📂 CTF Challenge   | 🧩 Gategory | 📝 -write-up | Platform | access_to_challenge  | 
+| 📂 CTF Challenge   | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge  | 
 |--------------------|-------------|-------------------------|----------|----------------------|
 | OhSINT | OSINT | [🔗 OhSINT ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
 | Reversing ELF | Reversing | [🔗 Reversing ELF ](https://github.com/achnouri/Reversing-ELF-CTF-write-up)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
