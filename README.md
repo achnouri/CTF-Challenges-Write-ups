@@ -1,4 +1,4 @@
-# 🚩 ᴄᴛꜰ [ ᴄʜᴀʟʟᴇɴɢᴇꜱ - ᴍᴀᴄʜɪɴᴇꜱ - ʟᴀʙꜱ ] - ᴡʀɪᴛᴇ-ᴜᴘꜱ
+# 🚩 [ᴄᴛꜰ] | ᴄʜᴀʟʟᴇɴɢᴇꜱ - ᴍᴀᴄʜɪɴᴇꜱ - ʟᴀʙꜱ | ᴡʀɪᴛᴇ-ᴜᴘꜱ
 
 > Collection of challenge write-ups, flags, badges, labs and resources for TryHackMe, HackTheBox, PortSwigger, Offensive Security labs, and general cybersecurity practice.
 
@@ -10,7 +10,7 @@
 |--------------------|-------------|-------------------------|----------|----------------------|
 | Sakura | OSINT | [🔗 Sakura ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
 | OhSINT | OSINT | [🔗 OhSINT ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
-| Reversing ELF | Reversing | [🔗 Reversing ELF ](https://github.com/achnouri/Reversing-ELF-CTF-write-up)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
+| Reversing ELF | Reversing | [🔗 Reversing ELF ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
 | Suspicious Threat | Forensics | [🔗 Suspicious Threat ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
 
 ---
