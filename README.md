@@ -1,4 +1,4 @@
-# 🚩 𝙲𝚃𝙵 | 𝙲𝚑𝚊𝚕𝚕𝚎𝚗𝚐𝚎𝚜 - 𝙼𝚊𝚌𝚑𝚒𝚗𝚎𝚜 - 𝙻𝚊𝚋𝚜 | 𝚆𝚛𝚒𝚝𝚎-𝚞𝚙𝚜
+# 🚩 ᴄᴛꜰ [ ᴄʜᴀʟʟᴇɴɢᴇꜱ - ᴍᴀᴄʜɪɴᴇꜱ - ʟᴀʙꜱ ] - ᴡʀɪᴛᴇ-ᴜᴘꜱ
 
 > Collection of challenge write-ups, flags, badges, labs and resources for TryHackMe, HackTheBox, PortSwigger, Offensive Security labs, and general cybersecurity practice.
 
