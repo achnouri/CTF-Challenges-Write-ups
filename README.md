@@ -15,42 +15,59 @@
 
 ---
 
->⚙️ More coming soon... 
+<br>
+:) More coming soon... 
 
 <br><br>
 
 ---
 
-:) Write-ups of portSwigger labs are private now until i finish them, i will make them public afterwards
+## PortSwigger Labs / vulnerabilities
 
-<br>
-
-## PortSwigger (potsigger) Labs
-
-| 📂 Lab | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge |
-|-------------------|------------:|-------------|----------|---------------------|
-| SQL Injection — WHERE & UNION | SQLi | [🔗 SQLi basics](https://portswigger.net/web-security/sql-injection) | PortSwigger | [LINK](https://portswigger.net/web-security/sql-injection) |
-| Blind SQL Injection (boolean/time) | SQLi | [🔗 Blind SQLi](https://portswigger.net/web-security/sql-injection/blind) | PortSwigger | [LINK](https://portswigger.net/web-security/sql-injection) |
-| Reflected XSS (HTML context) | XSS | [🔗 Reflected XSS](https://portswigger.net/web-security/cross-site-scripting) | PortSwigger | [LINK](https://portswigger.net/web-security/cross-site-scripting) |
-| Stored XSS (persistent) | XSS | [🔗 Stored XSS](https://portswigger.net/web-security/cross-site-scripting) | PortSwigger | [LINK](https://portswigger.net/web-security/cross-site-scripting) |
-| DOM-based XSS | XSS | [🔗 DOM XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based) | PortSwigger | [LINK](https://portswigger.net/web-security/cross-site-scripting/dom-based) |
-| CSRF — Token flaws | CSRF | [🔗 CSRF labs](https://portswigger.net/web-security/csrf) | PortSwigger | [LINK](https://portswigger.net/web-security/csrf) |
-| Auth bypass / Password reset | Authentication | [🔗 Auth labs](https://portswigger.net/web-security/authentication) | PortSwigger | [LINK](https://portswigger.net/web-security/authentication) |
-| Broken Access Control / IDOR | Access Control | [🔗 Access Control](https://portswigger.net/web-security/access-control) | PortSwigger | [LINK](https://portswigger.net/web-security/access-control) |
-| File upload — unrestricted execution | File Upload | [🔗 File upload](https://portswigger.net/web-security/file-upload) | PortSwigger | [LINK](https://portswigger.net/web-security/file-upload) |
-| SSRF — local / backend access | SSRF | [🔗 SSRF labs](https://portswigger.net/web-security/ssrf) | PortSwigger | [LINK](https://portswigger.net/web-security/ssrf) |
-| XXE / XML external entities | XXE | [🔗 XXE labs](https://portswigger.net/web-security/xxe) | PortSwigger | [LINK](https://portswigger.net/web-security/xxe) |
-| Deserialization / Object injection | Deserialization | [🔗 Deserialization](https://portswigger.net/web-security/deserialization) | PortSwigger | [LINK](https://portswigger.net/web-security/deserialization) |
-| Command Injection / RCE | Command Injection | [🔗 Command injection](https://portswigger.net/web-security/command-injection) | PortSwigger | [LINK](https://portswigger.net/web-security/command-injection) |
-| CORS misconfigurations | CORS | [🔗 CORS labs](https://portswigger.net/web-security/cors) | PortSwigger | [LINK](https://portswigger.net/web-security/cors) |
-| Business Logic Flaws | Business Logic | [🔗 Business logic](https://portswigger.net/web-security/business-logic) | PortSwigger | [LINK](https://portswigger.net/web-security/business-logic) |
+| 📂 Lab Name / Vulnerability | 📝 -write-up | Platform | Access_to_lab |
+|-----------------------------|--------------|----------|---------------------|
+| SQL Injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/sql-injection) |
+| Cross-site scripting | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#cross-site-scripting) |
+| Cross-site request forgery (CSRF) | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf) |
+| Clickjacking | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#clickjacking) |
+| DOM-based | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#dom-based-vulnerabilities) |
+| Cross-origin resource sharing (CORS) | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#cross-origin-resource-sharing-cors) |
+| XML external entity (XXE) injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#xml-external-entity-xxe-injection) |
+| Server-side request forgery (SSRF) | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#server-side-request-forgery-ssrf) |
+| HTTP request smuggling | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#http-request-smuggling) |
+| OS command injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#os-command-injection) |
+| Server-side template injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#server-side-template-injection) |
+| Path traversal | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#path-traversal) |
+| Access control | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#access-control-vulnerabilities) |
+| Authentication | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#authentication) |
+| WebSockets | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#websockets) |
+| Web cache poisoning | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#web-cache-poisoning) |
+| Insecure deserialization | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#insecure-deserialization) |
+| Information disclosure | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#information-disclosure) |
+| Business logic | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#business-logic-vulnerabilities) |
+| HTTP Host header attacks | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#http-host-header-attacks) |
+| OAuth authentication | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#oauth-authentications) |
+| File upload | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#file-upload-vulnerabilities) |
+| JWT | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#jwt) |
+| Essential skills | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#essential-skills) |
+| Prototype pollution | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#prototype-pollution) |
+| GraphQL API | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#graphql-api-vulnerabilities) |
+| Race conditions | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#race-conditions) |
+| NoSQL injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#nosql-injection) |
+| API testing | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#api-testing) |
+| Web LLM attacks | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#web-llm-attacks) |
+| Web cache deception | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#web-cache-deception) |
 
 ---
 
-> If you like this repo, don’t forget to ⭐ it!  
+<br>
+
+##### :) Write-ups of portSwigger labs are private now until i finish them, i will make them public afterwards
+
+##### If you like this repo, don’t forget to ⭐ it!  
 
 <br>
 
-✍️  : BY [achnouri](https://github.com/achnouri)
+---
 
-BY [achnouri](https://github.com/achnouri)
+✍️  : By [achnouri](https://github.com/achnouri)
