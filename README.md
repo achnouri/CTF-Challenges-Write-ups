@@ -2,13 +2,6 @@
 
 > Collection of challenge write-ups, flags, badges, labs and resources for TryHackMe, HackTheBox, PortSwigger, Offensive Security labs, and general cybersecurity practice.
 
-  <a href="https://tryhackme.com/p/achnr">
-    <img src="https://img.shields.io/badge/TryHackMe-achnr-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/1859770">
-    <img src="https://img.shields.io/badge/HackTheBox-achnr-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />
-  </a>
-
 <br>
 
 ---
@@ -75,6 +68,12 @@
 
 <br>
 
----
+  <a href="https://tryhackme.com/p/achnr">
+    <img src="https://img.shields.io/badge/TryHackMe-achnr-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+  <a href="https://app.hackthebox.com/profile/1859770">
+    <img src="https://img.shields.io/badge/HackTheBox-achnr-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+  </a>
 
+---
 ✍️  : By [achnouri](https://github.com/achnouri)
