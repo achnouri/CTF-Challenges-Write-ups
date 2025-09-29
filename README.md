@@ -26,7 +26,7 @@
 
 | 📂 Lab Name / Vulnerability | 📝 -write-up | Platform | Access_to_lab |
 |-----------------------------|--------------|----------|---------------------|
-| SQL Injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/sql-injection) |
+| SQL Injection | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#sql-injection) |
 | Cross-site scripting | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#cross-site-scripting) |
 | Cross-site request forgery (CSRF) | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#cross-site-request-forgery-csrf) |
 | Clickjacking | [🔗 write-up](https://github.com/achnouri/__comming_soon) | Portswigger | [LINK](https://portswigger.net/web-security/all-labs#clickjacking) |
