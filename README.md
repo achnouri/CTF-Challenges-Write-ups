@@ -8,10 +8,10 @@
 
 | 📂 CTF Challenge   | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge  | 
 |--------------------|-------------|-------------------------|----------|----------------------|
-| Sakura | OSINT | [🔗 Sakura ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
-| OhSINT | OSINT | [🔗 OhSINT ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
-| Reversing ELF | Reversing | [🔗 Reversing ELF ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
-| Suspicious Threat | Forensics | [🔗 Suspicious Threat ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
+| Sakura | OSINT | [🔗 write-up ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
+| OhSINT | OSINT | [🔗 write-up ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
+| Reversing ELF | Reversing | [🔗 write-up ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
+| Suspicious Threat | Forensics | [🔗 write-up ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
 
 <br>
 :) More coming soon... 
