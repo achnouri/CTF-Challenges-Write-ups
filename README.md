@@ -27,6 +27,12 @@
 | CDNio | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/CDNio) |-->
 
 <br>
+
+| 📂 Machine   | 📝 -write-up | Platform | Access_to_machine  | 
+|--------------------|-------------|-------------------------|----------|----------------------|
+| Editor | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/machines/Editor) |
+
+<br>
 :) More coming soon... 
 
 <br><br>
