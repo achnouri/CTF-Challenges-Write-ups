@@ -6,8 +6,9 @@
 
 ---
 
-| 📂 CTF Challenge   | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge  | 
+| 📂 CTF Challenge/Machine  | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge  | 
 |--------------------|-------------|-------------------------|----------|----------------------|
+| Editor | Comprehensive Penetration | [🔗 write-up ](https://github.com/achnouri/Editor-CTF-writre-up)| Hackthebox | [LINK](https://app.hackthebox.com/machines/Editor) |
 | Sakura | OSINT | [🔗 write-up ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
 | OhSINT | OSINT | [🔗 write-up ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
 | Reversing ELF | Reversing | [🔗 write-up ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
