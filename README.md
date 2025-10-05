@@ -14,10 +14,10 @@
 | Suspicious Threat | Forensics | [🔗 write-up ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
 | Reversing ELF | Reversing | [🔗 write-up ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
 | The Needle | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/The%2520Needle) |
-| Debugging Interface | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Debugging%2520Interface) |
+| Debugging Interface | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Debugging%2520Interface) |
 | Low Logic | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Low%2520Logic) |
 | signals | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Signals) |
-| Photon Lockdown | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Photon%2520Lockdown) |
+| Photon Lockdown | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Photon%2520Lockdown) |
 | RFlag | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/RFlag) |
 | VHDLock | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/VHDLock) |
 | Wander | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK]( https://app.hackthebox.com/challenges/Wander) |
