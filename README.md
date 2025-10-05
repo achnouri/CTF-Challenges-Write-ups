@@ -6,26 +6,26 @@
 
 ---
 
-| 📂 CTF Challenge/Machine  | 🧩 Gategory | 📝 -write-up | Platform | Access_to_challenge  | 
+| 📂 CTF Challenge/Machine  | 🧩 Category | 📝 -write-up | Platform | Access_to_challenge  | 
 |--------------------|-------------|-------------------------|----------|----------------------|
 | Editor | Comprehensive Penetration | [🔗 write-up ](https://github.com/achnouri/Editor-CTF-writre-up)| Hackthebox | [LINK](https://app.hackthebox.com/machines/Editor) |
 | Sakura | OSINT | [🔗 write-up ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
 | OhSINT | OSINT | [🔗 write-up ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
 | Suspicious Threat | Forensics | [🔗 write-up ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
 | Reversing ELF | Reversing | [🔗 write-up ](https://github.com/achnouri/__comming_soon)| TryHackme | [LINK](https://tryhackme.com/room/reverselfiles) |
-| The Needle | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/The%2520Needle) |
+| The Needle | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/The%2520Needle) |
 | Debugging Interface | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Debugging%2520Interface) |
-| Low Logic | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Low%2520Logic) |
-| signals | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Signals) |
+| Low Logic | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Low%2520Logic) |
+| signals | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Signals) |
 | Photon Lockdown | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Photon%2520Lockdown) |
-| RFlag | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/RFlag) |
-| VHDLock | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/VHDLock) |
-| Wander | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK]( https://app.hackthebox.com/challenges/Wander) |
-| Defusal | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK]( https://app.hackthebox.com/challenges/https://app.hackthebox.com/challenges/877) |
-| POP Restaurant | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/POP%2520Restaurant) |
-| JerryTok | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/JerryTok) |
-| Pentest Notes | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Pentest%2520Notes) |
-| CDNio | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon)) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/CDNio) |
+| RFlag | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/RFlag) |
+| VHDLock | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/VHDLock) |
+| Wander | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK]( https://app.hackthebox.com/challenges/Wander) |
+| Defusal | Hardware | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK]( https://app.hackthebox.com/challenges/https://app.hackthebox.com/challenges/877) |
+| POP Restaurant | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/POP%2520Restaurant) |
+| JerryTok | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/JerryTok) |
+| Pentest Notes | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/Pentest%2520Notes) |
+| CDNio | Web | [🔗 write-up ](https://github.com/achnouri/__comming_soon) | Hackthebox | [LINK](https://app.hackthebox.com/challenges/CDNio) |
 
 <br>
 :) More coming soon... 
