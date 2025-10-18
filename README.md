@@ -1,10 +1,34 @@
 # 🚩 [ᴄᴛꜰ] | ᴄʜᴀʟʟᴇɴɢᴇꜱ - ᴍᴀᴄʜɪɴᴇꜱ - ʟᴀʙꜱ | ᴡʀɪᴛᴇ-ᴜᴘꜱ
 
-> Collection of challenge write-ups, flags, badges, labs and resources for TryHackMe, HackTheBox, PortSwigger, Offensive Security labs, and general cybersecurity practice.
+> Collection of challenges, machines, write-ups, flags, labs and general cybersecurity practice.
+
+---
 
 <br>
 
+## 📂 QnQSec CTF 2025 
+
+**Platform :** https://ctf.qnqsec.team
+
+| Challenge | Category | Value  | Solved at | write-up | 
+| --------- | -------- | ------ | --------- | -------- |
+| Laser Strike      | Misc  | 380 | Oct 17, 01:14:31 PM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| The picture       | OSINT | 50  | Oct 17, 04:21:29 PM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| HeartBroken       | Misc  | 50  | Oct 17, 07:05:31 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| The company       | OSINT | 50  | Oct 17, 03:50:42 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| baby_baby_reverse | Rev   | 50  | Oct 17, 03:22:50 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| SmartCoffee       | Hardw | 50  | Oct 17, 02:49:53 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+
+## 📂 AKASEC CTF 2025
+
+**Platform :** https://ctf.akasec.ma
+
+------------> comming soon 
+
+<br>
 ---
+
+<br>
 
 | 📂 CTF Challenge/Machine  | 🧩 Category | 📝 -write-up | Platform | Access_to_challenge  | 
 |--------------------|-------------|-------------------------|----------|----------------------|
@@ -74,17 +98,17 @@
 
 <br>
 
-##### :) Write-ups of portSwigger labs are private now until i finish them, i will make them public afterwards
+##### :) Write-ups of PortSwigger labs are now private until I finish them
 
 ##### If you like this repo, don’t forget to ⭐ it!  
 
 <br>
 
-  <a href="https://tryhackme.com/p/achnr">
-    <img src="https://img.shields.io/badge/TryHackMe-achnr-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <a href="https://tryhackme.com/p/ANxS3c">
+    <img src="https://img.shields.io/badge/TryHackMe-ANxS3c-achraf?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
   <a href="https://app.hackthebox.com/profile/1859770">
-    <img src="https://img.shields.io/badge/HackTheBox-achnr-green?style=for-the-badge&logo=hack-the-box&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackTheBox-ANxS3c-achraf?style=for-the-badge&logo=hack-the-box&logoColor=white" />
   </a>
 
 <br><br>
