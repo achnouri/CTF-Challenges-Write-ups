@@ -25,11 +25,12 @@
 
 **Platform :** https://ctf.akasec.ma
 
-| Challenge | Category | Value  | Solved at | write-up |
-| GPS Warmup   | Misc  | 50 | 	October 19th, 2:26:21 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
-| EZPZ         | Crypto | 50  | October 19th, 12:46:27 AM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
-| Warmup | Rev | 50  | October 18th, 9:34:19 PM | [🔗 write-up ](https://github.com/achnouri/__comming_soon)|
-| Sanity check  | Misc | 50  | 	October 18th, 7:14:47 PM | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| Challenge | Category | Value  | Solved at | write-up | 
+| --------- | -------- | ------ | --------- | -------- |
+| GPS Warmup     | Misc    | 50  | October 19th, 02:26:21 AM  | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| EZPZ           | Crypto  | 50  | October 19th, 12:46:27 AM  | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| Warmup         | Rev     | 50  | October 18th, 09:34:19 PM  | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
+| Sanity check   | Misc    | 50  | October 18th, 07:14:47 PM  | [🔗 write-up ](https://github.com/achnouri/__comming_soon) |
 
 ...
 
