@@ -42,9 +42,9 @@
 
 ## 📂 HTB, THM ... CTFs 2025
 
-| 📂 CTF Challenge/Machine  | 🧩 Category | 📝 -write-up | Platform | Access_to_challenge  | 
-|--------------------|-------------|-------------------------|----------|----------------------|
-| Editor | Comprehensive Penetration | [🔗 write-up ](https://github.com/achnouri/Editor-CTF-writre-up)| Hackthebox | [LINK](https://app.hackthebox.com/machines/Editor) |
+| 📂 CTF Challenge | 🧩 Category | 📝 -write-up | Platform | Access_to_challenge  | 
+| --------------- | ---------- | ------------ | -------- | -------------------- |
+| Editor | Comprehensive Penetration | [🔗 write-up ](https://github.com/achnouri/Editor-CTF-writre-up) | Hackthebox | [LINK](https://app.hackthebox.com/machines/Editor) |
 | Sakura | OSINT | [🔗 write-up ](https://github.com/achnouri/Sakura-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/sakura) |
 | OhSINT | OSINT | [🔗 write-up ](https://github.com/achnouri/OhSINT-CTF-write-up) | Tryhackme | [LINK](https://tryhackme.com/room/ohsint) |
 | Suspicious Threat | Forensics | [🔗 write-up ](https://github.com/achnouri/Suspicious-Threat-CTF-write-up)| Hackthebox | [LINK](https://app.hackthebox.com/challenges/Suspicious%20Threat) |
