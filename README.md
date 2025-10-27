@@ -4,6 +4,29 @@
 
 ---
 
+
+## 💀 DEADFACE CTF 2025 
+
+**Platform :** https://ctf.deadface.io
+
+| Challenge | Category | Value | Solved at | Write-up |
+| ---------- | ---------- | ------ | ---------- | ---------- |
+| Tell No One | Stolen Secrets | 100 | October 27th, 12:22:46 AM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Undervalued | EpicSales | 400 | October 26th, 10:46:58 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Big Spender | EpicSales | 210 | October 26th, 10:41:35 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Silent Buyers | EpicSales | 100 | October 26th, 10:30:42 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Versions | Stolen Secrets | 10 | October 26th, 10:13:11 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| High Value Targets | EpicSales | 50 | October 26th, 7:29:06 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Low Stock | EpicSales | 50 | October 26th, 7:18:08 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| 5 Stars | EpicSales | 30 | October 26th, 7:09:28 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Promo Code | EpicSales | 25 | October 26th, 7:02:56 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Lay of the Land | Hostbusters | 70 | October 26th, 12:37:27 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Secret Stash | Hostbusters | 8 | October 26th, 12:12:29 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Let Me In | Hostbusters | 5 | October 26th, 12:11:11 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Double Decode | Steganography | 75 | October 26th, 11:09:18 AM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Creepy Resume | Steganography | 30 | October 25th, 3:25:47 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+| Bad Boy | Steganography | 10 | October 25th, 3:12:31 PM | [🔗 write-up](https://github.com/achnouri/__coming_soon) |
+
 <br>
 
 ## 📂 QnQSec CTF 2025 
