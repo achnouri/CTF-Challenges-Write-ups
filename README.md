@@ -42,20 +42,6 @@
 | baby_baby_reverse | Rev   | 50  | Oct 17, 03:22:50 AM | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
 | SmartCoffee       | Hardw | 50  | Oct 17, 02:49:53 AM | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
 
-<br>
-
-## 📂 AKASEC CTF 2025
-
-**Platform :** https://ctf.akasec.ma
-
-| Challenge | Category | Value  | Solved at | write-up | 
-| --------- | -------- | ------ | --------- | -------- |
-| GPS Warmup     | Misc    | 50  | October 19th, 02:26:21 AM  | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
-| EZPZ           | Crypto  | 50  | October 19th, 12:46:27 AM  | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
-| Warmup         | Rev     | 50  | October 18th, 09:34:19 PM  | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
-| Sanity check   | Misc    | 50  | October 18th, 07:14:47 PM  | [🔗 write-up ](https://github.com/achnouri/__coming_soon) |
-
-...
 
 <br>
 
